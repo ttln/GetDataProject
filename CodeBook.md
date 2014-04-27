@@ -35,7 +35,7 @@ All other patterns start with *t*.
 
 **Example:**
 
-*tBodyAcc.mean.Z*: Body means acceleration for *Z*.
+*tBodyAcc.mean.Z*: Body mean acceleration for *Z*.
 
 The bounds are [-1, 1].
 
